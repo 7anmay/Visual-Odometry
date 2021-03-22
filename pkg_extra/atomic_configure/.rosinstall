@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/tanmay/catkin_ws/src/slam_test/pkg_extra/devel/setup.sh

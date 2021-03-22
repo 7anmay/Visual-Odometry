@@ -1,0 +1,16 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/tanmay/catkin_ws/src/slam_test/pkg_extra/eigen-3.2.10/test/diagonalmatrices.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"BuildOfficial"
+		],
+		"name" : "diagonalmatrices_2"
+	}
+}
